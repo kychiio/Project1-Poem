@@ -3,7 +3,7 @@
      background-color: rgb(160, 179, 98);
      background-image: url("grassbackground.png") ;
      background-repeat: no-repeat;
-     background-size: auto; 
+     background-size: cover; 
  }
 
 #green-font {
